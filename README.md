@@ -1,4 +1,13 @@
-### Hi there 👋
+### Front End Developer
+
+- 🔭 I’m currently working with: Angular / JavaScript
+
+- 🌱 I’m currently learning: Java, C#
+
+- 📫 How to reach me: 
+
+LinkedIn: https://www.linkedin.com/in/ednapaulaalves/
+
 
 <!--
 **eaoliveira/eaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
