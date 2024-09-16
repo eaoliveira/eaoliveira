@@ -1,8 +1,8 @@
-### Front End Developer
+### Full Stack Developer
 
-- 🔭 I’m currently working with: Angular / JavaScript
+- 🔭 I’m currently working with: Angular / JavaScript / Java
 
-- 🌱 I’m currently learning: Java, C#
+- 🌱 I’m currently learning: Python, C#
 
 - 📫 How to reach me: 
 
