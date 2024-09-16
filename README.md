@@ -1,8 +1,8 @@
 ### Full Stack Developer
 
-- 🔭 I’m currently working with: Angular / JavaScript / Java
+- 🔭 I’m currently working with: Angular / JavaScript / Java / Apache Camel
 
-- 🌱 I’m currently learning: Python, C#
+- 🌱 I’m currently learning: Python, C#, Artificial Intelligence
 
 - 📫 How to reach me: 
 
